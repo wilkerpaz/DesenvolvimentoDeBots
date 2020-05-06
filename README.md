@@ -23,6 +23,7 @@ article: true
 - [Otouto - Lua](https://github.com/topkecleon/otouto)
 - [pyTelegram Bot API - Python](https://github.com/eternnoir/pyTelegramBotAPI)
 - [Python Telegram Bot - Python](https://github.com/python-telegram-bot/python-telegram-bot)
+- [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Telegraf - JavaScript](https://github.com/telegraf/telegraf)
 - [Telegram Bot Bash - Bash](https://github.com/topkecleon/telegram-bot-bash)
 - [Telegram Bot PHP SDK - PHP](https://telegram-bot-sdk.readme.io/docs)
@@ -95,6 +96,8 @@ article: true
 - RastreioBot ([@RastreioBot](https://t.me/RastreioBot)) ([GitHub](https://github.com/GabrielRF/RastreioBot)) - Membro: [GabrielRF](https://github.com/GabrielRF/) - Bot para rastreamento de pacotes cadastrados no sistema dos Correios.
 
 - Send2KindleBot ([@Send2KindleBot](https://t.me/Send2KindleBot)) ([GitHub](https://github.com/GabrielRF/Send2KindleBot)) - Membro: [GabrielRF](https://github.com/GabrielRF/) - Bot para envio de documentos para Kindle.
+
+- OiOlabot ([@OiOlabot](https://t.me/OiOlabot)) ([GitHub](https://github.com/wilkerpaz/OiOlabot)) - Membro: [WilkerPaz](https://github.com/wilkerpaz/) - Bot para mensagem de boas vindas e monitoramento de feed rss.
 
 
 _Bots para outras plataformas_
