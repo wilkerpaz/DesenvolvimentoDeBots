@@ -21,6 +21,7 @@ article: true
 - [Margelet - Go](https://github.com/zhulik/margelet)
 - [Node.js Telegram Bot API - JavaScript](https://github.com/yagop/node-telegram-bot-api/)
 - [Otouto - Lua](https://github.com/topkecleon/otouto)
+- [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [pyTelegram Bot API - Python](https://github.com/eternnoir/pyTelegramBotAPI)
 - [Python Telegram Bot - Python](https://github.com/python-telegram-bot/python-telegram-bot)
 - [Telegraf - JavaScript](https://github.com/telegraf/telegraf)
@@ -71,6 +72,8 @@ article: true
 - Nathy BOT ([GitHub](https://github.com/VycktorStark/Nathy)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Bot com AIML + Telepot.
 
 - Nathy Bot ([GitHub](https://github.com/VycktorStark/Nathy)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) - Bot com AIML + Telepot.
+
+- OiOlabot([@OiOlabot](https://t.me/OiOlabot)) ([GitHub](https://github.com/wilkerpaz/OiOlabot)) - Membro: [WilkerPaz](https://github.com/WilkerPaz/) - Bot para recepcionar membros e cadastrar feed rss para receber atualização de sites.
 
 - Robô Db vs 1.0 ([GitHub](https://github.com/VycktorStark/DbBot.git)) - Membro(s): [Vycktor Stark](https://github.com/VycktorStark) [Adilson Cavalcante](https://github.com/Player4NoobWinner) - Um Telegram Bot simples que executa até no Qpython.
 
